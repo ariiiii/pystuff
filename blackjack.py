@@ -1,0 +1,3 @@
+import random
+playerQuit = False
+
